@@ -1,1 +1,1 @@
-Wireframe are in my images folder
+Wireframes are in my images folder
